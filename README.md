@@ -20,6 +20,6 @@ Check out [this](blog_nb.ipynb) notebook to get started. You'll find the end-to-
 
 ## Explanation
 
-Check out the accompanying blog post over at []().
+Check out the accompanying blog post over at [datascience.fm](https://datascience.fm/multi-doc-rag-on-10k-reports/).
 
 Note: The packages installed in the blog post should suffice to run the [notebook](blog_nb.ipynb). I strongly reccomend you to not use my [requirements.txt](requirements.txt) because it has a lot of uneccessary packages and you will end up downloading a lot more packages than necessary.
